@@ -1,0 +1,1 @@
+export const BACKGROUND_COLOR = 'bg-black-500';

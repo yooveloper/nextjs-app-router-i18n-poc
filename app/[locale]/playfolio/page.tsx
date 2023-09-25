@@ -1,6 +1,7 @@
+
 import Header from "@/components/Header";
 import PageLayout from "@/components/PageLayout";
-import HomeContainer from "@/ui/homePage/HomeContainer";
+import PlayfolioContainer from "@/ui/playfolioPage/PlayfolioContainer";
 
 export default function Page() {
   return (
@@ -9,7 +10,7 @@ export default function Page() {
         <Header />
       </PageLayout.TopFixed>
       <PageLayout.Contents>
-        <HomeContainer />
+        <PlayfolioContainer />
       </PageLayout.Contents>
     </>
   )

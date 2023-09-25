@@ -1,1 +1,1 @@
-{"home":{"links":{"contact":"Contact","products":"Products"},"header":"Hello World, {name}"}}
+{"duo":{"duo":{"page":"This is Duo Page"}},"common":{"common":{"page":"Welcome to Moida!"}},"header":{"header":{"duo":"Duo","home":"Home","mercenary":"Mercenary","playfolio":"Playfolio"}},"mercenary":{"mercenary":{"page":"This is Mercenary Page"}},"playfolio":{"playfolio":{"page":"This is Playfolio Page"}}}
